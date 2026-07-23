@@ -427,10 +427,12 @@ See [CITATION.cff](CITATION.cff) for more details.
 
 ---
 
-<p align="center">
-  <b>Built with Python, Scikit-Learn, XGBoost, LightGBM, CatBoost, Optuna, Plotly, and Matplotlib</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUSSEF01234587&label=Profile%20Views&color=00B894&style=flat" alt="Profile Views">
-</p>
+### Built With
+
+Python • Scikit-Learn • XGBoost • LightGBM • CatBoost • Optuna • Plotly • Matplotlib
+
+⭐ If you found this project useful, consider giving it a star!
+
+</div>
