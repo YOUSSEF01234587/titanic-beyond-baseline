@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "Titanic: Beyond Baseline"
+message: "If you use this work, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: Talaat
+    given-names: Youseef
+repository-code: "https://github.com/YOUSSEF01234587/titanic-beyond-baseline"
+url: "https://github.com/YOUSSEF01234587/titanic-beyond-baseline"
+license: MIT
+version: "1.0.0"
+date-released: "2026-07-23"
+keywords:
+  - titanic
+  - machine-learning
+  - kaggle
+  - ensemble
+  - feature-engineering
+  - data-science
+  - python
+  - xgboost
+  - lightgbm
+  - catboost
+  - scikit-learn
+  - optuna
+  - shap
+  - plotly
+  - matplotlib
+  - seaborn
+  - survival-prediction
+  - classification
+  - data-visualization
+  - explainable-ai
+  - hyperparameter-optimization
+  - design-system
+  - auto-layout
