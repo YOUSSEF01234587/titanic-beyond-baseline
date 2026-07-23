@@ -411,7 +411,6 @@ titanic-beyond-baseline/
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
-
 ## Citation
 
 If you use this project in your research or work, please cite it:
@@ -426,7 +425,6 @@ If you use this project in your research or work, please cite it:
 ```
 
 For additional citation metadata, see [CITATION.cff](./CITATION.cff).
-
 ---
 
 <div align="center">
