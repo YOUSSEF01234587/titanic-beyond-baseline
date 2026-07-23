@@ -409,12 +409,13 @@ titanic-beyond-baseline/
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ---
 
 ## Citation
 
-```text
+If you use this project in your research or work, please cite it:
+
+```bibtex
 @software{talaat_titanic_beyond_baseline_2026,
   author = {Youseef Talaat},
   title  = {Titanic Beyond Baseline},
@@ -423,7 +424,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 }
 ```
 
-See [CITATION.cff](CITATION.cff) for more details.
+For additional citation metadata, see [CITATION.cff](./CITATION.cff).
 
 ---
 
@@ -433,6 +434,6 @@ See [CITATION.cff](CITATION.cff) for more details.
 
 Python • Scikit-Learn • XGBoost • LightGBM • CatBoost • Optuna • Plotly • Matplotlib
 
-⭐ If you found this project useful, consider giving it a star!
+⭐ **If you found this project useful, please consider giving it a Star!**
 
 </div>
