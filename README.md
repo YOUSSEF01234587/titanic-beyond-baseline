@@ -414,14 +414,13 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Citation
 
-```bibtex
+```text
 @software{talaat_titanic_beyond_baseline_2026,
   author = {Youseef Talaat},
   title  = {Titanic Beyond Baseline},
   year   = {2026},
   url    = {https://github.com/YOUSSEF01234587/titanic-beyond-baseline}
 }
-
 ```
 
 See [CITATION.cff](CITATION.cff) for more details.
