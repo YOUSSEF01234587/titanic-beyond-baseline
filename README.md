@@ -421,6 +421,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
   year   = {2026},
   url    = {https://github.com/YOUSSEF01234587/titanic-beyond-baseline}
 }
+
 ```
 
 See [CITATION.cff](CITATION.cff) for more details.
